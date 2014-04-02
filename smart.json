@@ -1,0 +1,8 @@
+{
+  "name": "Crossfilter",
+  "description": "Fast n-dimensional filtering and grouping of records.",
+  "homepage": "http://square.github.com/crossfilter/",
+  "author": "Tim Pfafman <tim@pfafman.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/pfafman/meteor-crossfilter.git"
+}
