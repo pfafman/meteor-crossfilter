@@ -1,4 +1,9 @@
-# Crossfilter
+ Crossfilter
+===============
+
+[Crossfilter 1.3.9](https://github.com/square/crossfilter) packaged for [Meteor](https://www.meteor.com) 0.9+ (no optional theme included)
+
+Packaged by [Tim Pfafman](https://github.com/pfafman/meteor-crossfilter)
 
 **Crossfilter** is a JavaScript library for exploring large multivariate datasets in the browser. Crossfilter supports extremely fast (<30ms) interaction with coordinated views, even with datasets containing a million or more records; we built it to power analytics for Square Register, allowing merchants to slice and dice their payment history fluidly.
 
