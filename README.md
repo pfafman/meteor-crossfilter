@@ -1,7 +1,7 @@
  Crossfilter
 ===============
 
-[Crossfilter 1.3.9](https://github.com/square/crossfilter) packaged for [Meteor](https://www.meteor.com) 0.9+ (no optional theme included)
+[Crossfilter 1.3.9](https://github.com/square/crossfilter) packaged for [Meteor](https://www.meteor.com) 0.9+
 
 Packaged by [Tim Pfafman](https://github.com/pfafman/meteor-crossfilter)
 
