@@ -1,7 +1,7 @@
 Package.describe({
   name: 'pfafman:crossfilter',
   summary: "Fast n-dimensional filtering and grouping of records.",
-  version: "2.0.0_3",
+  version: "1.4.0_1",
   git: "https://github.com/pfafman/meteor-crossfilter.git"
 });
 
