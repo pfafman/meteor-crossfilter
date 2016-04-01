@@ -11,5 +11,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.versionsFrom("METEOR@1.0");
-  api.add_files('lib/crossfilter.js', ['client']);
+  api.use("modules");
+  api.add_files('lib/crossfilter.js', ['client', 'server']);
 });
